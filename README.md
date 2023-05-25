@@ -1,1 +1,1 @@
-# MMM-Regression
+# MMM-LinearRegression
